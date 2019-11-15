@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe      by Shawn Rhoades</string>
+
+    <string name="player_one_name">Player 1 (X)</string>
+    <string name="player_two_name">Player 2 (O)</string>
+    <string name="reset_score">Reset Score</string>
+    <string name="reset_board">Reset Board</string>
+</resources>

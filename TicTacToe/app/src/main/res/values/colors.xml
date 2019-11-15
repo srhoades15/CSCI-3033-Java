@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01374b</color>
+    <color name="colorPrimaryDark">#001226</color>
+    <color name="colorAccent">#da0816</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="my_turn">#FFFF00</color>
+    <color name="not_my_turn">#ffffff</color>
+</resources>
